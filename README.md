@@ -169,3 +169,16 @@ Seasonal-Agriculture-Performance-Analysis/
 ├── seasonal_agriculture_performance_dataset.csv
 ├── cleaned_seasonal_agriculture_dataset.csv
 └── README.md
+
+
+### ✅ Now do this
+
+If you're editing the README directly on GitHub:
+
+1. Scroll to the bottom.
+2. Add the closing **```**.
+3. Click **Commit changes**.
+4. Commit message:
+
+```text
+Add project README

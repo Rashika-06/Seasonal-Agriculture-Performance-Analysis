@@ -171,7 +171,7 @@ Seasonal-Agriculture-Performance-Analysis/
 └── README.md
 
 
-### ✅ Now do this
+
 
 If you're editing the README directly on GitHub:
 

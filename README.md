@@ -165,10 +165,10 @@ The project can be further improved by:
 ```text
 Seasonal-Agriculture-Performance-Analysis/
 │
-├── Seasonal_Agriculture_Performance_Analysis.ipynb
-├── seasonal_agriculture_performance_dataset.csv
-├── cleaned_seasonal_agriculture_dataset.csv
-└── README.md
+README.md
+Seasonal_Agriculture_Performance_Analysis.ipynb
+seasonal_agriculture_performance_dataset.csv
+cleaned_seasonal_agriculture_dataset.csv
 
 
 
